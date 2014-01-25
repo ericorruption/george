@@ -19882,7 +19882,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground.png", 47955, 1],
+		["images/tiledbackground.png", 51164, 1],
 		null,
 		[
 		],
@@ -19899,7 +19899,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground2.png", 46466, 1],
+		["images/tiledbackground2.png", 49287, 0],
 		null,
 		[
 		],
@@ -19916,7 +19916,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground2.png", 46466, 1],
+		["images/tiledbackground2.png", 49287, 0],
 		null,
 		[
 		],
@@ -19933,7 +19933,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground4.png", 45595, 1],
+		["images/tiledbackground4.png", 47983, 0],
 		null,
 		[
 		],
@@ -19950,7 +19950,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground.png", 47955, 1],
+		["images/tiledbackground.png", 51164, 1],
 		null,
 		[
 		],
@@ -20050,7 +20050,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground.png", 47955, 1],
+		["images/tiledbackground6.png", 47955, 1],
 		null,
 		[
 		],
@@ -20067,7 +20067,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground.png", 47955, 1],
+		["images/tiledbackground6.png", 47955, 1],
 		null,
 		[
 		],
@@ -20084,7 +20084,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground.png", 47955, 1],
+		["images/tiledbackground6.png", 47955, 1],
 		null,
 		[
 		],
@@ -20101,7 +20101,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/tiledbackground4.png", 45595, 1],
+		["images/tiledbackground9.png", 45595, 1],
 		null,
 		[
 		],
@@ -20125,6 +20125,138 @@ cr.getProjectModel = function() { return [
 		false,
 		false,
 		9966596588143757,
+		[],
+		null
+	]
+,	[
+		"t23",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			7804137257135173,
+			[
+				["images/banana-sheet0.png", 16566, 1, 1, 80, 80, 1, 0.5, 0.5,[],[-0.08750000596046448,-0.08750000596046448,0,-0.2874999940395355,0.237500011920929,-0.237500011920929,0.25,0,0.199999988079071,0.199999988079071,0,0.425000011920929,-0.1624999940395355,0.1625000238418579],0],
+				["images/banana-sheet0.png", 16566, 82, 1, 80, 80, 1, 0.5, 0.5,[],[-0.3125,-0.3125,0,0.0625,-0.02500000596046448,0.02499997615814209,-0.02500000596046448,0,0.3125,0.3125,0,0.4375,-0.2750000059604645,0.2749999761581421,-0.4000000059604645,0],0],
+				["images/banana-sheet0.png", 16566, 163, 1, 80, 80, 1, 0.5, 0.5,[],[-0.2750000059604645,-0.2750000059604645,0.02499997615814209,0,0.3999999761581421,0.3999999761581421,0,0.4125000238418579,-0.2125000059604645,0.2124999761581421,-0.3125,0],0],
+				["images/banana-sheet0.png", 16566, 1, 82, 80, 80, 1, 0.5, 0.5,[],[-0.03749999403953552,-0.03749999403953552,0,-0.4000000059604645,0.2124999761581421,-0.2125000059604645,0.262499988079071,0,0.237500011920929,0.237500011920929,0,0.487500011920929,-0.05000001192092896,0.05000001192092896,-0.05000001192092896,0],0],
+				["images/banana-sheet0.png", 16566, 82, 82, 80, 80, 1, 0.5, 0.5,[],[0.03750002384185791,0.03750002384185791,0,0.0625,0.3500000238418579,-0.3499999940395355,0.4375,0,0.2875000238418579,0.2875000238418579,0,0.449999988079071,-0.387499988079071,0.387499988079071,0.0625,0],0]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		373685287237875,
+		[],
+		null
+	]
+,	[
+		"t24",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			5825515525594849,
+			[
+				["images/pernil-sheet0.png", 12740, 1, 1, 80, 80, 1, 0.5, 0.5,[],[-0.2249999940395355,-0.2249999940395355,0,-0.2125000059604645,0.137499988079071,-0.137499988079071,0.199999988079071,0,0.1875,0.1875,0,0.375,-0.3125,0.3125,-0.4124999940395355,0],0],
+				["images/pernil-sheet0.png", 12740, 82, 1, 80, 80, 1, 0.5, 0.5,[],[-0.199999988079071,-0.199999988079071,0.08749997615814209,-0.08750000596046448,0.362500011920929,0,0,0.2124999761581421,-0.300000011920929,0.300000011920929,-0.4625000059604645,0],0],
+				["images/pernil-sheet0.png", 12740, 163, 1, 80, 80, 1, 0.5, 0.5,[],[-0.175000011920929,-0.175000011920929,0,-0.1624999940395355,0.08749997615814209,-0.08750000596046448,0.2250000238418579,0,0.1875,0.1875,0,0.2250000238418579,-0.2125000059604645,0.2124999761581421,-0.324999988079071,0],0],
+				["images/pernil-sheet0.png", 12740, 1, 82, 80, 80, 1, 0.5, 0.5,[],[-0.09999999403953552,-0.09999999403953552,0,-0.1624999940395355,0.1875,-0.1875,0.387499988079071,0,0.237500011920929,0.237500011920929,0,0.2250000238418579,-0.1500000059604645,0.1499999761581421,-0.4000000059604645,0],0],
+				["images/pernil-sheet0.png", 12740, 82, 82, 80, 80, 1, 0.5, 0.5,[],[-0.09999999403953552,-0.09999999403953552,0,-0.1624999940395355,0.2250000238418579,-0.2249999940395355,0.4125000238418579,0,0.324999988079071,0.324999988079071,0,0.262499988079071,-0.1500000059604645,0.1499999761581421,-0.324999988079071,0],0]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		2395418948335413,
+		[],
+		null
+	]
+,	[
+		"t25",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			8672833397883553,
+			[
+				["images/sprite2-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5,[],[],3]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		7996104843819177,
+		[],
+		null
+	]
+,	[
+		"t26",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			1235878506973858,
+			[
+				["images/money-sheet0.png", 15124, 1, 1, 80, 80, 1, 0.5, 0.5,[],[-0.125,-0.125,0,-0.1624999940395355,0.199999988079071,-0.199999988079071,0.2749999761581421,0,0.262499988079071,0.262499988079071,0,0.3374999761581421,-0.2125000059604645,0.2124999761581421,-0.2750000059604645,0],0],
+				["images/money-sheet0.png", 15124, 82, 1, 80, 80, 1, 0.5, 0.5,[],[-0.112500011920929,-0.112500011920929,0,-0.125,0.125,-0.125,0.425000011920929,0,0.199999988079071,0.199999988079071,0,0.199999988079071,-0.237500011920929,0.237500011920929,-0.362500011920929,0],0],
+				["images/money-sheet0.png", 15124, 163, 1, 80, 80, 1, 0.5, 0.5,[],[-0.1500000059604645,-0.1500000059604645,0,-0.125,0.08749997615814209,-0.08750000596046448,0.3374999761581421,0,0.300000011920929,0.300000011920929,0,0.199999988079071,-0.175000011920929,0.175000011920929,-0.2874999940395355,0],0],
+				["images/money-sheet0.png", 15124, 1, 82, 80, 80, 1, 0.5, 0.5,[],[-0.125,-0.125,0,-0.112500011920929,0.1499999761581421,-0.1500000059604645,0.3374999761581421,0,0.2124999761581421,0.2124999761581421,0,0.324999988079071,-0.2750000059604645,0.2749999761581421,-0.375,0],0],
+				["images/money-sheet0.png", 15124, 82, 82, 80, 80, 1, 0.5, 0.5,[],[-0.08750000596046448,-0.08750000596046448,0,-0.125,0.125,-0.125,0.4125000238418579,0,0.300000011920929,0.300000011920929,0,0.262499988079071,-0.25,0.25,-0.3375000059604645,0],0]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		6390587967756594,
 		[],
 		null
 	]
@@ -20775,6 +20907,51 @@ cr.getProjectModel = function() { return [
 				[
 					0,
 					0
+				]
+			]
+,			[
+				[717, 151, 0, 60, 60, 0, 0, 1, 0.5, 0.5, 0, 0, []],
+				23,
+				4,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
+				]
+			]
+,			[
+				[676, 241, 0, 80, 80, 0, 0, 1, 0.5, 0.5, 0, 0, []],
+				24,
+				15,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
+				]
+			]
+,			[
+				[792, 265, 0, 80, 80, 0, 0, 1, 0.5, 0.5, 0, 0, []],
+				26,
+				34,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
 				]
 			]
 			],
@@ -24253,6 +24430,909 @@ false,false,5004894288326808,false
 			]
 			]
 		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			101426159871137,
+			[
+			[
+				-1,
+				cr.system_object.prototype.cnds.Every,
+				null,
+				0,
+				false,
+				false,
+				false,
+				6635223004793522,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						10
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.cnds.CompareVar,
+				null,
+				0,
+				false,
+				false,
+				false,
+				8530566329292624,
+				false
+				,[
+				[
+					11,
+					"Score"
+				]
+,				[
+					8,
+					2
+				]
+,				[
+					7,
+					[
+						23,
+						"PontuçãoMudança1"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				-1,
+				cr.system_object.prototype.acts.CreateObject,
+				null,
+				5168343436657113,
+				false
+				,[
+				[
+					4,
+					23
+				]
+,				[
+					5,
+					[
+						2,
+						"Colliders"
+					]
+				]
+,				[
+					0,
+					[
+						19,
+						cr.system_object.prototype.exps.random
+						,[
+[
+							0,
+							10
+						]
+,[
+							5,
+							[
+								19,
+								cr.system_object.prototype.exps.layoutwidth
+							]
+							,[
+								0,
+								50
+							]
+						]
+						]
+					]
+				]
+,				[
+					0,
+					[
+						5,
+						[
+							19,
+							cr.system_object.prototype.exps.viewporttop
+							,[
+[
+								2,
+								"Colliders"
+							]
+							]
+						]
+						,[
+							0,
+							100
+						]
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			5491238781282484,
+			[
+			[
+				23,
+				cr.plugins_.Sprite.prototype.cnds.IsOnScreen,
+				null,
+				0,
+				false,
+				false,
+				false,
+				3788698803561434,
+				false
+			]
+			],
+			[
+			[
+				23,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null,
+				2006170246561055,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			5870859300311247,
+			[
+			[
+				0,
+				cr.plugins_.Sprite.prototype.cnds.OnCollision,
+				null,
+				0,
+				false,
+				false,
+				true,
+				8692843930737345,
+				false
+				,[
+				[
+					4,
+					23
+				]
+				]
+			]
+			],
+			[
+			[
+				16,
+				cr.plugins_.Audio.prototype.acts.Play,
+				null,
+				8195630363735029,
+				false
+				,[
+				[
+					2,
+					["power-up-interface-etc",false]
+				]
+,				[
+					3,
+					0
+				]
+,				[
+					0,
+					[
+						0,
+						0
+					]
+				]
+,				[
+					1,
+					[
+						2,
+						""
+					]
+				]
+				]
+			]
+,			[
+				23,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null,
+				2972419549069741,
+				false
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				2728611196535947,
+				false
+				,[
+				[
+					0,
+					[
+						4,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							2000
+						]
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.acts.Wait,
+				null,
+				3037389347867419,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						2
+					]
+				]
+				]
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				7412430799366721,
+				false
+				,[
+				[
+					0,
+					[
+						5,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							2000
+						]
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			5318730308726638,
+			[
+			[
+				-1,
+				cr.system_object.prototype.cnds.Every,
+				null,
+				0,
+				false,
+				false,
+				false,
+				5504736898563597,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						10
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.cnds.CompareVar,
+				null,
+				0,
+				false,
+				false,
+				false,
+				9650634670491607,
+				false
+				,[
+				[
+					11,
+					"Score"
+				]
+,				[
+					8,
+					5
+				]
+,				[
+					7,
+					[
+						23,
+						"PontuçãoMudança1"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				-1,
+				cr.system_object.prototype.acts.CreateObject,
+				null,
+				9121022903368103,
+				false
+				,[
+				[
+					4,
+					24
+				]
+,				[
+					5,
+					[
+						2,
+						"Colliders"
+					]
+				]
+,				[
+					0,
+					[
+						19,
+						cr.system_object.prototype.exps.random
+						,[
+[
+							0,
+							10
+						]
+,[
+							5,
+							[
+								19,
+								cr.system_object.prototype.exps.layoutwidth
+							]
+							,[
+								0,
+								50
+							]
+						]
+						]
+					]
+				]
+,				[
+					0,
+					[
+						5,
+						[
+							19,
+							cr.system_object.prototype.exps.viewporttop
+							,[
+[
+								2,
+								"Colliders"
+							]
+							]
+						]
+						,[
+							0,
+							100
+						]
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			2044543695154211,
+			[
+			[
+				24,
+				cr.plugins_.Sprite.prototype.cnds.IsOnScreen,
+				null,
+				0,
+				false,
+				false,
+				false,
+				1825721508154608,
+				false
+			]
+			],
+			[
+			[
+				24,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null,
+				5802103276239752,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			2999909218882749,
+			[
+			[
+				0,
+				cr.plugins_.Sprite.prototype.cnds.OnCollision,
+				null,
+				0,
+				false,
+				false,
+				true,
+				9931569519346784,
+				false
+				,[
+				[
+					4,
+					24
+				]
+				]
+			]
+			],
+			[
+			[
+				16,
+				cr.plugins_.Audio.prototype.acts.Play,
+				null,
+				5819019098698528,
+				false
+				,[
+				[
+					2,
+					["power-up-interface-etc",false]
+				]
+,				[
+					3,
+					0
+				]
+,				[
+					0,
+					[
+						0,
+						0
+					]
+				]
+,				[
+					1,
+					[
+						2,
+						""
+					]
+				]
+				]
+			]
+,			[
+				24,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null,
+				7869154599926431,
+				false
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				5101238086589704,
+				false
+				,[
+				[
+					0,
+					[
+						4,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							4000
+						]
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.acts.Wait,
+				null,
+				1868895548967679,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						2
+					]
+				]
+				]
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				2558239777427678,
+				false
+				,[
+				[
+					0,
+					[
+						5,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							4000
+						]
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			5831289337788231,
+			[
+			[
+				-1,
+				cr.system_object.prototype.cnds.Every,
+				null,
+				0,
+				false,
+				false,
+				false,
+				149244194260172,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						10
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.cnds.CompareVar,
+				null,
+				0,
+				false,
+				false,
+				false,
+				1672011893622589,
+				false
+				,[
+				[
+					11,
+					"Score"
+				]
+,				[
+					8,
+					5
+				]
+,				[
+					7,
+					[
+						23,
+						"PontuaçãoMudança2"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				-1,
+				cr.system_object.prototype.acts.CreateObject,
+				null,
+				5339961845825063,
+				false
+				,[
+				[
+					4,
+					26
+				]
+,				[
+					5,
+					[
+						2,
+						"Colliders"
+					]
+				]
+,				[
+					0,
+					[
+						19,
+						cr.system_object.prototype.exps.random
+						,[
+[
+							0,
+							10
+						]
+,[
+							5,
+							[
+								19,
+								cr.system_object.prototype.exps.layoutwidth
+							]
+							,[
+								0,
+								50
+							]
+						]
+						]
+					]
+				]
+,				[
+					0,
+					[
+						5,
+						[
+							19,
+							cr.system_object.prototype.exps.viewporttop
+							,[
+[
+								2,
+								"Colliders"
+							]
+							]
+						]
+						,[
+							0,
+							100
+						]
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			4890336626582721,
+			[
+			[
+				26,
+				cr.plugins_.Sprite.prototype.cnds.IsOnScreen,
+				null,
+				0,
+				false,
+				false,
+				false,
+				5002666062635355,
+				false
+			]
+			],
+			[
+			[
+				26,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null,
+				6880282777795603,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			null,
+			6959172712572138,
+			[
+			[
+				0,
+				cr.plugins_.Sprite.prototype.cnds.OnCollision,
+				null,
+				0,
+				false,
+				false,
+				true,
+				4544998682805111,
+				false
+				,[
+				[
+					4,
+					26
+				]
+				]
+			]
+			],
+			[
+			[
+				16,
+				cr.plugins_.Audio.prototype.acts.Play,
+				null,
+				2738959956821264,
+				false
+				,[
+				[
+					2,
+					["power-up-interface-etc",false]
+				]
+,				[
+					3,
+					0
+				]
+,				[
+					0,
+					[
+						0,
+						0
+					]
+				]
+,				[
+					1,
+					[
+						2,
+						""
+					]
+				]
+				]
+			]
+,			[
+				26,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null,
+				7348668009426438,
+				false
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				2864421044358807,
+				false
+				,[
+				[
+					0,
+					[
+						4,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							8000
+						]
+					]
+				]
+				]
+			]
+,			[
+				-1,
+				cr.system_object.prototype.acts.Wait,
+				null,
+				7409272251099146,
+				false
+				,[
+				[
+					0,
+					[
+						0,
+						2
+					]
+				]
+				]
+			]
+,			[
+				0,
+				cr.behaviors.Platform.prototype.acts.SetJumpStrength,
+				"Platform",
+				7605281584980602,
+				false
+				,[
+				[
+					0,
+					[
+						5,
+						[
+							22,
+							0,
+							"Platform",
+							cr.behaviors.Platform.prototype.exps.JumpStrength,
+							false,
+							null
+						]
+						,[
+							0,
+							8000
+						]
+					]
+				]
+				]
+			]
+			]
+		]
 		]
 	]
 ,	[
@@ -24309,7 +25389,7 @@ false,false,5004894288326808,false
 	false,
 	0,
 	1,
-	34,
+	35,
 	true,
 	true,
 	[
